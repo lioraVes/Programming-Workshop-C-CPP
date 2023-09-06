@@ -1,7 +1,7 @@
 ## Project Description
 This is a Caesar Cipher project.
 The user provides:
-- The wanted command- encode or decodeץ
+- The wanted command- encode or decode
 - The shift value.
 - An input file containing the text he wnat to encode or decode.
 - A output file that will contain the result.
